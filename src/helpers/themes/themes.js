@@ -16,6 +16,7 @@ export const theme = createMuiTheme({
    typography: {
       fontFamily: "Raleway, Arial"
    },
+
    overrides: {
       MuiCssBaseline: {
          "@global": {

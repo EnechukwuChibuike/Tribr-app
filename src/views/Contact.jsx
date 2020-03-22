@@ -1,9 +1,13 @@
 import React from "react";
+import Header from "../components/layouts/Header.component";
 
 const Contact = () => {
    return (
       <div>
-         <p>Contact Us</p>
+         <Header />
+         <div>
+            <p>Contact Us</p>
+         </div>
       </div>
    );
 };
